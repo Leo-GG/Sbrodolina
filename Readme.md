@@ -8,9 +8,14 @@ She is not the prettiest but I love her all the same.
 
 ## Current status (20/05/2019)
 
-ALl axis are assembled, one Z motor is missing (loaned to a colleague for [another project](https://github.com/Leo-GG/PumpControl) and the syring pump is missing as well (I'm eagerly waiting for the mailman). 
-Tested movement on X and Y axis and all the endstops. All seems to work fine, although I blew up one Arduino and 2 stepper controlers to get to this point. 
-After assembling the missing motors I will do the first "extrusion" test. Haven't decided on which material to use yet.
+* All axis are assembled, one Z motor is missing (loaned to a colleague for [another project](https://github.com/Leo-GG/PumpControl) and the syring pump is missing as well (I'm eagerly waiting for the mailman). 
+* Tested movement on X and Y axis and all the endstops. All seems to work fine, although I blew up one Arduino and 2 stepper controlers to get to this point. 
+* After assembling the missing motors I will do the first "extrusion" test. Haven't decided on which material to use yet.
+* Few temporary solutions need to be reworked:
+  * Endstops are currently held by cable ties. This hurts my eyes every time I see it
+  * The syringe pump should be mounted somewhere on the printer
+  * Same for the power supply and the Arduino, it is quite messy as it is now
+  * The design of the syringe holder on the pump is plainly horrible. I intend to amend this
 
 ## Design
 
