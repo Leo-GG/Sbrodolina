@@ -6,6 +6,8 @@ She is not the prettiest but I love her all the same.
 
 ![Printer](https://github.com/Leo-GG/Sbrodolina/blob/master/pics/full_view.jpg "Sbrodolina in its current status")
 
+![Front view](https://github.com/Leo-GG/Sbrodolina/blob/master/pics/front_view.jpg "Sbrodolina in its current status")
+
 ## Current status (20/05/2019)
 
 * All axis are assembled, one Z motor is missing (loaned to a colleague for [another project](https://github.com/Leo-GG/PumpControl) and the syring pump is missing as well (I'm eagerly waiting for the mailman). 
