@@ -3,6 +3,7 @@
 Sbrodolina is a Bioprinter I designed as a consequence of finding myself in possesion of a 3D printer and too much free time.
 She is not the prettiest but I love her all the same.
 
+![Printer](https://github.com/Leo-GG/Sbrodolina/blob/master/pics/full_view.jpg "Sbrodolina in its current status")
 ## Design
 
 I designed the printer using aluminium profiles and lead screws on all axis. The idea was to get a robust design. And plenty of wheels and screws everywhere.
