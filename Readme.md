@@ -8,11 +8,10 @@ She is not the prettiest but I love her all the same.
 
 ![Front view](https://github.com/Leo-GG/Sbrodolina/blob/master/pics/front_view.jpg "Sbrodolina in its current status")
 
-## Current status (20/05/2019)
+## Current status (27/05/2019)
 
-* All axis are assembled, one Z motor is missing (loaned to a colleague for [another project](https://github.com/Leo-GG/PumpControl) and the syring pump is missing as well (I'm eagerly waiting for the mailman). 
-* Tested movement on X and Y axis and all the endstops. All seems to work fine, although I blew up one Arduino and 2 stepper controlers to get to this point. 
-* After assembling the missing motors I will do the first "extrusion" test. Haven't decided on which material to use yet.
+* All axis are assembled, tested all motors and endstops using Pronterface.
+* First "extrusion" tests coming in two weeks! Haven't decided on which material to use yet.
 * Few temporary solutions need to be reworked:
   * Endstops are currently held by cable ties. This hurts my eyes every time I see it
   * The syringe pump should be mounted somewhere on the printer
