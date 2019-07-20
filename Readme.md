@@ -3,7 +3,8 @@
 Sbrodolina is a Bioprinter I designed as a consequence of finding myself in possesion of a 3D printer and too much free time.
 I started this project with little knowledge about 3D printing, with the intention to educate myself, have fun taking up the challenge of designing a printer from scratch and eventually rejoice seeing it spill some liquids.
 She is not the prettiest but I love her all the same.
-[First test, Sbrodolina spilling water around](https://youtu.be/jMWw5LMnzZg)
+
+See it in action in all its glory here: [Sbrodolina spilling water around](https://youtu.be/jMWw5LMnzZg).
 
 ![Printer](https://github.com/Leo-GG/Sbrodolina/blob/master/pics/full_view.jpg "Sbrodolina in its current status")
 
